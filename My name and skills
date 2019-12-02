@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Prince Rakgoale</title>
+    </head>
+    <body>
+    <h1>I am from South Africa<\h1>
+    <h2>I would like to hack wifi's<\h2>
+    </body>
+       <!-- My Schedule section end -->
+        
+        
+        <!-- My Skills section start -->
+        <div class="section">
+            <h1><span>My Skills</span></h1>
+            <ul>
+                <li>HTML <br />
+                    <progress min="0" max="100" value="80"></progress>
+                </li>
+                <li>JavaScript <br />
+                    <progress min="0" max="100" value="50"></progress>
+                </li>
+                <li>Python <br />
+                    <progress min="0" max="100" value="30"></progress>
+                </li>
+            </ul>
+        </div>
+        <!-- My Skills section end -->
+</html>
+
